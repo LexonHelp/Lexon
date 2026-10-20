@@ -7,11 +7,11 @@ application for text expansion and AI-powered writing assistance.
 
 ## Documents
 
-- [Terms of Service](./TERMS_OF_SERVICE.md)
-- [Privacy Policy](./PRIVACY_POLICY.md) *(if applicable)*
+- [Terms of Service](./TERMS_OF_SERVICE.md.pdf)
+- [Privacy Policy](./PRIVACY_POLICY.md.pdf)
 
 ## Contact
 
-For questions about these terms, contact: your-new-email@example.com
+For questions about these documents, contact: Lexon.Help@gmail.com
 
 *Last updated: October 2026*
